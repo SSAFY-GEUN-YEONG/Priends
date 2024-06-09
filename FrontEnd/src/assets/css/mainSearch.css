@@ -1,0 +1,59 @@
+.main {
+  position: relative;
+  width: 800px;
+  height: 60px;
+  background-color: #ffffff;
+  border-radius: 100px;
+  overflow: hidden;
+  border: 2px solid;
+  border-color: #e0e0e0;
+}
+
+.main .search {
+  position: absolute;
+  width: 714px;
+  height: 36px;
+  top: 12px;
+  left: 18px;
+}
+
+.main .button {
+  position: absolute;
+  width: 24px;
+  height: 36px;
+  top: 0;
+  left: 0;
+}
+
+.main .searchbox {
+  position: absolute;
+  width: 682px;
+  height: 18px;
+  top: 9px;
+  left: 32px;
+}
+
+.main .search-button {
+  position: absolute;
+  width: 60px;
+  height: 48px;
+  top: 6px;
+  left: 732px;
+  background-color: #34e0a1;
+  border-radius: 24px;
+}
+
+.main .text-wrapper {
+  position: absolute;
+  width: 36px;
+  height: 17px;
+  top: 14px;
+  left: 12px;
+  font-weight: 700;
+  color: #000000;
+  font-size: 8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}

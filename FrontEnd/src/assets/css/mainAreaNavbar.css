@@ -1,0 +1,195 @@
+.box {
+  width: 595px;
+  height: 49px;
+}
+
+.box .view {
+  position: fixed;
+  width: 595px;
+  height: 49px;
+  top: 0;
+  left: 0;
+}
+
+.box .overlap {
+  position: relative;
+  height: 49px;
+  border-radius: 10px;
+}
+
+.box .group {
+  position: absolute;
+  width: 550px;
+  height: 20px;
+  top: 15px;
+  left: 22px;
+}
+
+.box .overlap-group-wrapper {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 0;
+}
+
+.box .overlap-group {
+  position: relative;
+  width: 25px;
+  height: 20px;
+}
+
+.box .div {
+  position: absolute;
+  width: 25px;
+  height: 15px;
+  top: 3px;
+  left: 0;
+  background-color: #eccaff;
+  border-radius: 20px;
+}
+
+.box .text-wrapper {
+  position: absolute;
+  height: 20px;
+  top: 0;
+  left: 5px;
+  font-weight: 700;
+  color: #000000;
+  font-size: 8px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.box .overlap-wrapper {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 35px;
+}
+
+.box .div-wrapper {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 70px;
+}
+
+.box .group-2 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 210px;
+}
+
+.box .group-3 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 245px;
+}
+
+.box .group-4 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 280px;
+}
+
+.box .group-5 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 105px;
+}
+
+.box .group-6 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 140px;
+}
+
+.box .group-7 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 175px;
+}
+
+.box .group-8 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 315px;
+}
+
+.box .group-9 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 350px;
+}
+
+.box .group-10 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 385px;
+}
+
+.box .group-11 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 525px;
+}
+
+.box .group-12 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 420px;
+}
+
+.box .group-13 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 455px;
+}
+
+.box .group-14 {
+  position: absolute;
+  width: 27px;
+  height: 20px;
+  top: 0;
+  left: 490px;
+}
+
+.box .rectangle {
+  position: absolute;
+  width: 595px;
+  height: 49px;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #d3badc;
+}

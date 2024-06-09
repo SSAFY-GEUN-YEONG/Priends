@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "SeoulHangangM";
+  src: url("/src/assets/fonts/SeoulHangangM.ttf") format("truetype");
+}
+
+body {
+  font-family: "SeoulHangangM", sans-serif;
+}
+textarea {
+  font-family: "SeoulHangangM", sans-serif;
+}
